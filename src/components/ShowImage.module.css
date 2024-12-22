@@ -1,0 +1,20 @@
+.image{
+    margin: auto;
+    width: 200px;
+    height:200px;
+    object-fit: cover;
+    margin: 10px;
+    border: 2px solid #ccc;
+}
+.zoom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 40px;
+    border-radius: 20px;;
+    background-color: aliceblue;
+    text-align: center;
+    margin: 4px;
+    box-shadow: 2px 2px 1px black;
+}
